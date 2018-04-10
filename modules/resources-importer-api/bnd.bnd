@@ -1,0 +1,8 @@
+Bundle-Name: Liferay Resources Importer Open/Extended API
+Bundle-SymbolicName: com.liferay.exportimport.resources.importer
+Bundle-Version: 1.0.0
+
+Export-Package: com.liferay.exportimport.resources.importer.api,\
+  com.liferay.exportimport.resources.importer.custom,\
+  com.liferay.exportimport.resources.importer.custom.context,\
+  com.liferay.exportimport.resources.importer.custom.upgrade

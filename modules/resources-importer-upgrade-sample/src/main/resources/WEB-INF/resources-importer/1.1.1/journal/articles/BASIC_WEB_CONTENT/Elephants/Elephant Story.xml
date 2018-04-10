@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element name="content" type="text_area" index-type="text" instance-id="wjve">
+		<dynamic-content language-id="en_US"><![CDATA[<p>So this is the only elephant story.</p>
+
+<p>This is an elephant:&amp;nbsp;<img height="400" src="[$FILE=alessandro-desantis-564-unsplash.jpg$]" width="550" /></p>
+
+<p>&amp;nbsp;</p>]]></dynamic-content>
+	</dynamic-element>
+</root>

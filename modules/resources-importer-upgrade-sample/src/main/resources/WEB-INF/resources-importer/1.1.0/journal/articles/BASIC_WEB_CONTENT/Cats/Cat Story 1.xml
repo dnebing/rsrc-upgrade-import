@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element name="content" type="text_area" index-type="text" instance-id="wjve">
+		<dynamic-content language-id="en_US"><![CDATA[<p>So this is the first story about cats.</p>
+
+<p>This is a cat I don&apos;t have:&amp;nbsp;<img height="400" src="[$FILE=andrea-natali-189621-unsplash.jpg$]" width="550" /></p>
+
+<p>&amp;nbsp;</p>
+
+<p>This is a cat that I don&apos;t have:</p>
+
+<p><img height="400" src="[$FILE=chinda-sam-164936-unsplash.jpg$]" width="550" /></p>]]></dynamic-content>
+	</dynamic-element>
+</root>

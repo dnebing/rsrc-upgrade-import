@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element name="content" type="text_area" index-type="text" instance-id="cthd">
+		<dynamic-content language-id="en_US"><![CDATA[<p>This is another story about cats.</p>
+
+<p>Nothing special but it does include more photos.</p>
+
+<p>Here&apos;s the first cat:</p>
+
+<p><img height="400" src="[$FILE=clark-young-412037-unsplash.jpg$]" width="550" /></p>
+
+<p>This is the second cat:</p>
+
+<p><img height="400" src="[$FILE=ferenc-horvath-461706-unsplash.jpg$]" width="550" /></p>]]></dynamic-content>
+	</dynamic-element>
+</root>
