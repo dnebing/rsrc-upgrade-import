@@ -3,10 +3,10 @@ Bundle-SymbolicName: com.liferay.exportimport.resources.importer.sample
 
 # Current Bundle Version.  Note this will be the upgrade version if the
 # Liferay-Require-SchemaVersion is not provided
-Bundle-Version: 1.1.0
+Bundle-Version: 1.0.0
 
 # This will be the version used for the upgrade.  This is optional.
-Liferay-Require-SchemaVersion: 1.1.0
+Liferay-Require-SchemaVersion: 1.0.0
 
 # We need a web context path so we get a real servlet context
 Web-ContextPath: /sample-rsrc-importer
