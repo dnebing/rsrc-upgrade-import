@@ -70,7 +70,7 @@ public class ResourceImporterUpgradeStepRegistrator extends BaseResourceImporter
 			registerUpgradeStep(registry, BUNDLE_SYMBOLIC_NAME, V_000, V_100, v100Props);
 
 			// register 1.0.0 -> 1.1.0
-			registerUpgradeStep(registry, BUNDLE_SYMBOLIC_NAME, V_100, V_110, v110Props);
+			// registerUpgradeStep(registry, BUNDLE_SYMBOLIC_NAME, V_100, V_110, v110Props);
 
 			// register 1.1.0 -> 1.1.1
 			// registerUpgradeStep(registry, BUNDLE_SYMBOLIC_NAME, V_110, V_111, v111Props);
